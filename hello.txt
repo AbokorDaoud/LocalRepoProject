@@ -1,1 +1,3 @@
-Hello, this is my new file in the LocalRepoProject directory!
+
+ Hello, Git and GitHub!
+
